@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "równaie_sześcienne/1.0.0": {
+        "runtime": {
+          "równaie_sześcienne.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "równaie_sześcienne/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

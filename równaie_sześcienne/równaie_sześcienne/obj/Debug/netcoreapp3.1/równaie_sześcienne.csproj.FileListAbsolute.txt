@@ -1,0 +1,14 @@
+C:\Users\playg\Desktop\równaie_sześcienne\równaie_sześcienne\obj\Debug\netcoreapp3.1\równaie_sześcienne.csproj.AssemblyReference.cache
+C:\Users\playg\Desktop\równaie_sześcienne\równaie_sześcienne\obj\Debug\netcoreapp3.1\równaie_sześcienne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\playg\Desktop\równaie_sześcienne\równaie_sześcienne\obj\Debug\netcoreapp3.1\równaie_sześcienne.AssemblyInfoInputs.cache
+C:\Users\playg\Desktop\równaie_sześcienne\równaie_sześcienne\obj\Debug\netcoreapp3.1\równaie_sześcienne.AssemblyInfo.cs
+C:\Users\playg\Desktop\równaie_sześcienne\równaie_sześcienne\obj\Debug\netcoreapp3.1\równaie_sześcienne.csproj.CoreCompileInputs.cache
+C:\Users\playg\Desktop\równaie_sześcienne\równaie_sześcienne\bin\Debug\netcoreapp3.1\równaie_sześcienne.exe
+C:\Users\playg\Desktop\równaie_sześcienne\równaie_sześcienne\bin\Debug\netcoreapp3.1\równaie_sześcienne.deps.json
+C:\Users\playg\Desktop\równaie_sześcienne\równaie_sześcienne\bin\Debug\netcoreapp3.1\równaie_sześcienne.runtimeconfig.json
+C:\Users\playg\Desktop\równaie_sześcienne\równaie_sześcienne\bin\Debug\netcoreapp3.1\równaie_sześcienne.runtimeconfig.dev.json
+C:\Users\playg\Desktop\równaie_sześcienne\równaie_sześcienne\bin\Debug\netcoreapp3.1\równaie_sześcienne.dll
+C:\Users\playg\Desktop\równaie_sześcienne\równaie_sześcienne\bin\Debug\netcoreapp3.1\równaie_sześcienne.pdb
+C:\Users\playg\Desktop\równaie_sześcienne\równaie_sześcienne\obj\Debug\netcoreapp3.1\równaie_sześcienne.dll
+C:\Users\playg\Desktop\równaie_sześcienne\równaie_sześcienne\obj\Debug\netcoreapp3.1\równaie_sześcienne.pdb
+C:\Users\playg\Desktop\równaie_sześcienne\równaie_sześcienne\obj\Debug\netcoreapp3.1\równaie_sześcienne.genruntimeconfig.cache
