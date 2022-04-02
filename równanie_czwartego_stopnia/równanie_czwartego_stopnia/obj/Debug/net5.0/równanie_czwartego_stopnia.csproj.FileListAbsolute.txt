@@ -1,0 +1,5 @@
+D:\Users\Mateusz.Dynur\source\repos\równanie_czwartego_stopnia\równanie_czwartego_stopnia\obj\Debug\net5.0\równanie_czwartego_stopnia.csproj.AssemblyReference.cache
+D:\Users\Mateusz.Dynur\source\repos\równanie_czwartego_stopnia\równanie_czwartego_stopnia\obj\Debug\net5.0\równanie_czwartego_stopnia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Mateusz.Dynur\source\repos\równanie_czwartego_stopnia\równanie_czwartego_stopnia\obj\Debug\net5.0\równanie_czwartego_stopnia.AssemblyInfoInputs.cache
+D:\Users\Mateusz.Dynur\source\repos\równanie_czwartego_stopnia\równanie_czwartego_stopnia\obj\Debug\net5.0\równanie_czwartego_stopnia.AssemblyInfo.cs
+D:\Users\Mateusz.Dynur\source\repos\równanie_czwartego_stopnia\równanie_czwartego_stopnia\obj\Debug\net5.0\równanie_czwartego_stopnia.csproj.CoreCompileInputs.cache
