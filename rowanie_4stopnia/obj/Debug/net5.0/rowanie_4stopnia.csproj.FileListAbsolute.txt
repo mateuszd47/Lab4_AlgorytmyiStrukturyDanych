@@ -1,0 +1,16 @@
+C:\Users\playg\Desktop\rowanie_4stopnia\bin\Debug\net5.0\rowanie_4stopnia.exe
+C:\Users\playg\Desktop\rowanie_4stopnia\bin\Debug\net5.0\rowanie_4stopnia.deps.json
+C:\Users\playg\Desktop\rowanie_4stopnia\bin\Debug\net5.0\rowanie_4stopnia.runtimeconfig.json
+C:\Users\playg\Desktop\rowanie_4stopnia\bin\Debug\net5.0\rowanie_4stopnia.runtimeconfig.dev.json
+C:\Users\playg\Desktop\rowanie_4stopnia\bin\Debug\net5.0\rowanie_4stopnia.dll
+C:\Users\playg\Desktop\rowanie_4stopnia\bin\Debug\net5.0\rowanie_4stopnia.pdb
+C:\Users\playg\Desktop\rowanie_4stopnia\obj\Debug\net5.0\rowanie_4stopnia.csproj.AssemblyReference.cache
+C:\Users\playg\Desktop\rowanie_4stopnia\obj\Debug\net5.0\rowanie_4stopnia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\playg\Desktop\rowanie_4stopnia\obj\Debug\net5.0\rowanie_4stopnia.AssemblyInfoInputs.cache
+C:\Users\playg\Desktop\rowanie_4stopnia\obj\Debug\net5.0\rowanie_4stopnia.AssemblyInfo.cs
+C:\Users\playg\Desktop\rowanie_4stopnia\obj\Debug\net5.0\rowanie_4stopnia.csproj.CoreCompileInputs.cache
+C:\Users\playg\Desktop\rowanie_4stopnia\obj\Debug\net5.0\rowanie_4stopnia.dll
+C:\Users\playg\Desktop\rowanie_4stopnia\obj\Debug\net5.0\refint\rowanie_4stopnia.dll
+C:\Users\playg\Desktop\rowanie_4stopnia\obj\Debug\net5.0\rowanie_4stopnia.pdb
+C:\Users\playg\Desktop\rowanie_4stopnia\obj\Debug\net5.0\rowanie_4stopnia.genruntimeconfig.cache
+C:\Users\playg\Desktop\rowanie_4stopnia\obj\Debug\net5.0\ref\rowanie_4stopnia.dll

@@ -26,7 +26,7 @@ namespace równanie_czwartego_stopnia
             double cprim = (Math.Pow(f, 2) - (4 * h)) / 16;
             double dprim = Math.Pow(g, 2) / 64;
 
-            Console.WriteLine($"{aprim}y^3 + {bprim} + {cprim} - {dprim} = 0");
+            Console.WriteLine($"{aprim}y^3 + {bprim}y^2 + {cprim}y - {dprim} = 0");
 
             double w = -(bprim / (3 * aprim));
             double p = ((3 * aprim * Math.Pow(w, 2)) + (2 * bprim * w) + cprim) / aprim;

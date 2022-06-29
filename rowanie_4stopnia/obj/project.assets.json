@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\playg\\Documents\\GitHub\\Lab4_AlgorytmyiStrukturyDanych\\równanie_czwartego_stopnia\\równanie_czwartego_stopnia\\równanie_czwartego_stopnia.csproj",
-      "projectName": "równanie_czwartego_stopnia",
-      "projectPath": "C:\\Users\\playg\\Documents\\GitHub\\Lab4_AlgorytmyiStrukturyDanych\\równanie_czwartego_stopnia\\równanie_czwartego_stopnia\\równanie_czwartego_stopnia.csproj",
+      "projectUniqueName": "C:\\Users\\playg\\Desktop\\rowanie_4stopnia\\rowanie_4stopnia.csproj",
+      "projectName": "rowanie_4stopnia",
+      "projectPath": "C:\\Users\\playg\\Desktop\\rowanie_4stopnia\\rowanie_4stopnia.csproj",
       "packagesPath": "C:\\Users\\playg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\playg\\Documents\\GitHub\\Lab4_AlgorytmyiStrukturyDanych\\równanie_czwartego_stopnia\\równanie_czwartego_stopnia\\obj\\",
+      "outputPath": "C:\\Users\\playg\\Desktop\\rowanie_4stopnia\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
